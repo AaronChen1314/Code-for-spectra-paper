@@ -1,1 +1,1 @@
-# utils package
+"""Numerical and thermal utility functions."""

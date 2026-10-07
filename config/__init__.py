@@ -1,1 +1,1 @@
-from .config_manager import *
+"""Manuscript-aligned configuration."""

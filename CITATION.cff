@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Code for spectra paper"
+message: "If you use this code, cite the associated Nature Energy manuscript."
+type: software
+authors:
+  - family-names: Chen
+    given-names: Aaron
+repository-code: "https://github.com/AaronChen1314/Code-for-spectra-paper"
+license: "MIT"
