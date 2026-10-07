@@ -1,0 +1,41 @@
+{
+  "paper_alignment": {
+    "reference_temperature_K": 298.15,
+    "wbg_bandgap_eV": 1.8,
+    "nbg_bandgap_eV": 1.25,
+    "wbg_thickness_nm": 450.0,
+    "nbg_thickness_nm": 1200.0,
+    "wbg_temperature_coefficient_eV_per_K": 0.00031,
+    "nbg_temperature_coefficient_eV_per_K": 0.00072,
+    "thermal_U0_W_m-2_K-1": 14.58,
+    "thermal_U1_W_s_m-3_K-1": 4.37,
+    "wbg_scan_eV": [
+      1.7,
+      2.0,
+      0.001
+    ],
+    "diode_temperature_exponents": [
+      3.0,
+      2.5
+    ]
+  },
+  "electrical_parameters": {
+    "WBG": [
+      2.8884e-22,
+      1.6934e-14,
+      1.1605,
+      1.9316,
+      2.2566,
+      9247.7
+    ],
+    "NBG": [
+      9.6741e-15,
+      1.7069e-12,
+      1.2555,
+      1.5381,
+      0.9986,
+      23524.0
+    ]
+  },
+  "optical_inputs": "not included; external authorized n-k and irradiance files required"
+}
